@@ -1,7 +1,7 @@
 # PacMen-Exercise
 ## Description:
 This is a modified version of the 'PacMen-Factory' project assignment through MIT coding bootcamp.
-The original project creates images of Pacman and moves all of the PacMen created all at once at different intervals.
+This project creates images of Pacman at different locations in the browser upon clicking the button. After clicking the button, the program moves all of the PacMen created all at once at different intervals and bounces the Pacmen off the borders of the browers base on the browser size.
 ## How to Run:
 1. Fork the repository in its entirety into your account.
 2. clone the repository to your machine.
