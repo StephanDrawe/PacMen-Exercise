@@ -8,8 +8,10 @@ This project creates images of PacMan at different locations in the browser upon
 3. Open the 'index.html' file in your browser of choice.
 4. Click the 'Add PacMan' button to add a single PacMan to the screen. Click the button again to add more.
 5. Click the 'Start Game' button to move all of the created PacMen across the browser.
-6. To clear the brower, simply refresh the window.
-7. Repeat steps 1 through 6.
+6. Continue to click on 'Add PacMan' will create more moving PacMen as the Game is running.
+7. Continue to click on 'Start Game' will speed up the movement of all PacMen on screen faster.
+8. To clear the brower, simply refresh the window.
+9. Repeat steps 1 through 8.
 ## Roadmap of future improvements:
 In the next iterations of the program, we will add more styles to the background and images.
 ## License information:
